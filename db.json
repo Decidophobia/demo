@@ -1,4 +1,5 @@
-[
+{
+"departments" :[
   { "id": 1,
   "speciality": "frontend",
    "amount": 15 },
@@ -12,3 +13,4 @@
   "speciality": "product manager",
    "amount": 2 },
 ]
+}
